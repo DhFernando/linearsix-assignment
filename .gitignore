@@ -1,0 +1,20 @@
+# Dependency directories
+rest-api/node_modules/
+
+# Environment variables file
+.env
+
+# Log files
+logs/
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Ignore npm debug log
+npm-debug.log*
